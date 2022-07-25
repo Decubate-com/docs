@@ -1,0 +1,11 @@
+input: .
+output: docs
+url: decubate-com.github.io/docs
+branding:
+  label: Docs
+  logo: static/Decubate-logo-black.png
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
