@@ -24,7 +24,7 @@ _Infrastructure and Decubate software improvements_
 _Value to DCB and the community_
 - Crosschain arbitration bot
 - DCB liquidity staking pools
-- DCB back back & burn program
+- DCB buy back & burn program
 - Improved event allocation system
 - Learn to earn claim events
 - New exchange listing
