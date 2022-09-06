@@ -1,7 +1,7 @@
 ---
 label: DCB Liquidity Staking
 layout: default
-order: 101
+order: 96
 ---
 # Decubate DCB liquidity staking
 The provision of healthy liquidity is essential for every token. Projects can incentivize their community to provide liquidity and enable them to earn transaction fees made on decentralized exchanges.

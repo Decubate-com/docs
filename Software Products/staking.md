@@ -1,10 +1,10 @@
 ---
-label: Staking
+label: Staking platform
 layout: default
 order: 99
 ---
 ![](../static/ATS-OpenGraph.png)
-# Staking
+# White label staking platform
 
 Take control of your token economy. Deliver compelling staking experiences to reward long-term holders, fast.
 

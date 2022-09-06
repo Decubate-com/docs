@@ -1,5 +1,5 @@
 ---
-label: Token
+label: DCB Token
 layout: default
 order: 99
 ---
