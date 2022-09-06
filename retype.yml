@@ -1,6 +1,6 @@
 input: .
 output: docs
-url: decubate-com.github.io/docs
+url: docs.decubate.com
 branding:
   label: Docs
   logo: static/Decubate-logo-black.png
