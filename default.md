@@ -7,4 +7,4 @@ Our mission to accelerate the mass adoption of digital assets by empowering web3
 - Website: https://decubate.com/
 - Platform: https://platform.decubate.com/
 - Token: DCB
-- Contract: 0xEAc9873291dDAcA754EA5642114151f3035c67A2 (BSC)
+- Contract: 0xEAc9873291dDAcA754EA5642114151f3035c67A2 (Binance Smart Chain)
