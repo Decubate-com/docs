@@ -4,9 +4,9 @@ layout: default
 order: 95
 ---
 # About us
-Decubate is a web3 software company that makes token management easy. We empower crypto projects to launch a token without any technical know-how. We do this through a suite of no-code token management products.
+As the go-to platform for web3 businesses, Decubate empowers entrepreneurs to launch, manage, and grow with ease. We're proud to partner with them and drive growth together.
 
-Our mission is to accelerate the mass adoption of digital assets by arming crypto projects with the resources they need to launch and manage their token.
+We aim to be the leading platform for accessible, innovative, and credible solutions that empower businesses and investors to seamlessly participate in the decentralized economy and unlock its full potential.
 
 ## Our Values
 

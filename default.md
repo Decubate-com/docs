@@ -1,8 +1,8 @@
 # Decubate whitepaper
 
-Decubate is a web3 software company that makes token management easy. We empower crypto projects to launch a token without any technical know-how. Decubate provides a state-of-the-art Token Management System (TMS) with no-code requirements so that building a web3 business becomes accessible to all.
+Decubate is to be the leading platform for accessible, innovative, and credible solutions that empower businesses and investors to seamlessly participate in the decentralized economy and unlock its full potential.
 
-Our mission to accelerate the mass adoption of digital assets by empowering web3 businesses to easily launch and manage their tokens with no need for technical knowledge.
+Decubate offers a wide range of services and products, which include: token minting, vesting system and token claim portal, staking system, custom smart contract development, market making, and crowdfunding.
 
 - Website: https://decubate.com/
 - Platform: https://platform.decubate.com/
