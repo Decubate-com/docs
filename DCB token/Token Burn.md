@@ -1,9 +1,10 @@
 ---
 label: DCB Burn
 layout: default
-order: 98
+order: 97
 ---
 
+![](../static/Burn.png)
 # DCB Token Burn Introduction:
 Decubate is proud to introduce its newest feature, the DCB token burn. The DCB token burn is an innovative solution that aims to maintain healthy tokenomics and provide stability to the token price. By reducing the total supply of the DCB token, Decubate aims to increase its scarcity, demand, and price stability, making it more accessible and valuable to users. This document will showcase the details and benefits of the DCB token burn mechanics.
 
