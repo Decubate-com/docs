@@ -1,7 +1,7 @@
 ---
 label: Tokenomics
 layout: default
-order: 95
+order: 96
 ---
 Decubate's token, DCB, is a critical component of our ecosystem. It provides investment rights to stakers, enables community governance, and facilitates access to our products and services. Our tokenomics have been carefully designed to ensure the long-term success of our platform and the value of DCB.
 ![](../static/tokenomics.png)
@@ -10,7 +10,12 @@ Decubate's token, DCB, is a critical component of our ecosystem. It provides inv
 We have a total token supply of 1 billion DCB. The distribution of tokens is as follows:
 ![](../static/Token-distributions.png)
 
-Decubate's token distribution is designed to promote a fair and balanced distribution of tokens among key stakeholders in the ecosystem. By allocating a significant portion of tokens to community rewards, Decubate is demonstrating its commitment to building a strong and engaged community of supporters who will have a vested interest in the success of the project. Additionally, by allocating a portion of tokens to the treasury, Decubate is ensuring that the project has the resources it needs to fund ongoing development and expansion, while still maintaining a significant portion of tokens for the community.
+Decubate's token distribution is designed to promote a fair and balanced distribution of tokens among key stakeholders in the ecosystem. By allocating a significant portion of tokens to community rewards, Decubate is demonstrating its commitment to building a strong and engaged community of supporters who will have a vested interest in the success of the project. 
+
+#### Treasury tokens
+By allocating a portion of tokens to the treasury, Decubate is ensuring that the project has the resources it needs to fund ongoing development and expansion, while still maintaining a significant portion of tokens for the community. 
+
+It's important to note that Decubate has a profitable business model and<b> does not rely on these tokens for continious operations</b> and does not intend to liquidate any tokens without the consent of a governance proposal.
 
 Furthermore, Decubate's token distribution is designed to incentivize long-term commitment and investment, with gradual vesting of tokens over time for key stakeholders such as the team and advisors. This helps to align the interests of these stakeholders with the long-term success of the project, promoting stability and growth over time. Overall, Decubate's thoughtful and strategic token distribution approach is a strong foundation for building a thriving ecosystem that benefits all stakeholders involved.
 
