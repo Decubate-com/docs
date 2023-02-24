@@ -5,15 +5,15 @@ order: 98
 ---
 ![](../static/Mint-hero.png)
 
-# Token Mint Service Introduction:
+# Token Mint Service:
 Decubate's Token Mint Service is a comprehensive solution for businesses and investors looking to participate in the decentralized economy. This service allows you to mint your own token and launch it into the market with the assurance of quality and credibility. Our token mint service is designed to provide you with the necessary tools to create and launch your token with ease and confidence.
 
 ## Features:
-<li> Smart Contract Audit from leading auditing firm Hacken.</li>
-<li> Free consultancy call with Decubate for Tokenomics advice.</li>
-<li> Support for all EVM chains.</li>
-<li>  Multiple modules for token minting including reflection, anti-front running, anti-sniping, pausing, blacklisting, and burn mechanics.</li>
-<li> Assistance with listing on Coinmarketcap and Coingecko.</li>
+- Smart Contract Audit from leading auditing firm Hacken.
+- Free consultancy call with Decubate for Tokenomics advice.
+- Support for all EVM chains.
+- Multiple modules for token minting including reflection, anti-front running, anti-sniping, pausing, blacklisting, and burn mechanics.
+- Assistance with listing on Coinmarketcap and Coingecko.
 
 
 ## Step-by-Step Guide:

@@ -29,6 +29,7 @@ _Value to DCB and the community_
 - NFT reward/airdrop events
 - Dynamic APY staking pools
 - Launchpad governance and voting
+- Decentralized refund policy
 
 ## 2022
 _At the beginning of 2022, we set an aggressive roadmap to position Decubate for long-term success. While market conditions have cooled from the highs of the DeFi / NFT / DAO / GameFi summer, we’re staying the course and are building through the bear market._
