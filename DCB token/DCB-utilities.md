@@ -1,7 +1,7 @@
 ---
 label: DCB Token Utilities
 layout: default
-order: 99
+order: 98
 ---
 # DCB Token
 Decubate is dedicated to revolutionizing the decentralized economy and empowering businesses and investors to unlock its full potential. Our platform offers a wide range of services and products to make participating in the decentralized economy seamless, accessible, and innovative. To drive this transformation, Decubate has created DCB, a BEP20 utility token that powers the platform.

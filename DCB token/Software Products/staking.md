@@ -3,7 +3,7 @@ label: Staking platform
 layout: default
 order: 99
 ---
-![](../static/ATS-hero.png)
+![](../static/ATS.png)
 # White label staking platform
 
 Take control of your token economy. Deliver compelling staking experiences to reward long-term holders, fast.

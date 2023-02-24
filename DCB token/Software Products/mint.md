@@ -3,7 +3,7 @@ label: Token Minting
 layout: default
 order: 98
 ---
-![](../static/Mint-hero.png)
+![](../static/Mint.png)
 
 # Token Mint Service:
 Decubate's Token Mint Service is a comprehensive solution for businesses and investors looking to participate in the decentralized economy. This service allows you to mint your own token and launch it into the market with the assurance of quality and credibility. Our token mint service is designed to provide you with the necessary tools to create and launch your token with ease and confidence.

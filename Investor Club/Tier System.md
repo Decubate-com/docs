@@ -1,9 +1,10 @@
 ---
-label: Launchpad
+label: Tier System
 layout: default
-order: 100
+order: 99
 ---
-![](../static/investor-club.png)
+
+![Decubate Tier System](../static/membership-levels.png)
 # Club Overview
 They say it’s hard to master two things at once. We disagree. In addition to developing industry-leading web3 software products, we operate a members-only investor club.
 
@@ -39,11 +40,10 @@ To become an investor club member, complete the following steps.
 2. Buy DCB tokens from PancakeSwap or Bitmart
 
 [!ref target="blank" text="PancakeSwap"](https://pancakeswap.finance/swap)
-[!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
+[!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?symbol=DCB_USDT)
+
 3. Secure your Decubate membership by staking our DCB token in one of our staking pools. To increase your level, simply meet the corresponding staking requirement. Your membership level will appear on the upper right hand side of the Decubate platform (you must be logged in to view it).
 
 [!ref target="blank" text="Create your account"](https://platform.decubate.com/register)
 
 The investor club consists of six levels of membership. Simply meet the Decubate token (DCB) staking requirement of your desired membership level. The benefits of each membership level are outlined in the image below. Note* The difference between Base, Bronze and Silver membership levels is the investment allocation amount for crowdfunding events (token sales). 
-
-![Membership Overview](../static/membership-levels.png)

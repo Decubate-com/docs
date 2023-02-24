@@ -3,7 +3,7 @@ label: Token vesting platform
 layout: default
 order: 100
 ---
-![](../static/ATV-hero.png)
+![](../static/ATV.png)
 # White label token vesting and claim portal
 
 Distribute project tokens to investors with confidence. Our highly customizable token claim portal makes token management easy. 
