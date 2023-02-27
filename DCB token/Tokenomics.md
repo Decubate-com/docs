@@ -15,9 +15,7 @@ Decubate's token distribution is designed to promote a fair and balanced distrib
 #### Treasury tokens
 By allocating a portion of tokens to the treasury, Decubate is ensuring that the project has the resources it needs to fund ongoing development and expansion, while still maintaining a significant portion of tokens for the community. 
 
-It's important to note that Decubate has a profitable business model and<b> does not rely on these tokens for continious operations</b> and does not intend to liquidate any tokens without the consent of a governance proposal.
-
-Furthermore, Decubate's token distribution is designed to incentivize long-term commitment and investment, with gradual vesting of tokens over time for key stakeholders such as the team and advisors. This helps to align the interests of these stakeholders with the long-term success of the project, promoting stability and growth over time. Overall, Decubate's thoughtful and strategic token distribution approach is a strong foundation for building a thriving ecosystem that benefits all stakeholders involved.
+It's important to note that Decubate has a profitable business model and<b> does not rely on these tokens for continuous operations</b> and does not intend to liquidate any tokens without the consent of a governance proposal.
 
 ### Token Vesting
 ![](../static/Emissions.png)
