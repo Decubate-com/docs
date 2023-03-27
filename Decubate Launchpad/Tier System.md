@@ -1,7 +1,7 @@
 ---
 label: Tier System
 layout: default
-order: 99
+order: 100
 ---
 
 ![Decubate Tier System](../static/membership-levels.png)
