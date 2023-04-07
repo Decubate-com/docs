@@ -1,7 +1,7 @@
 ---
 label: Getting Started
 layout: default
-order: 101
+order: 100
 description: A step-by-step guide to setting up your Decubate account and getting started with the platform.
 ---
 # Decubate Made Simple: A Step-by-Step Guide to Joining Events

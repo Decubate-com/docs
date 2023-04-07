@@ -1,7 +1,7 @@
 ---
 label: Tokenomics
 layout: default
-order: 96
+order: 90
 ---
 Decubate's token, DCB, is a critical component of our ecosystem. It provides investment rights to stakers, enables community governance, and facilitates access to our products and services. Our tokenomics have been carefully designed to ensure the long-term success of our platform and the value of DCB.
 ![](../static/tokenomics.png)

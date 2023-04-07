@@ -1,5 +1,5 @@
 ---
-label: DCB Liquidity Staking
+label: Staking
 layout: default
 order: 96
 ---

@@ -1,7 +1,7 @@
 ---
 label: Refund Policy
 layout: default
-order: 99
+order: 95
 description: Refund policy
 ---
 # Decubate Decentralized Refund Policy
@@ -20,7 +20,7 @@ We introduced the protection fee after the third Decubate DAO vote. Investors wh
 
 Investors can increase the investment protection percentage during the grace period based on their tier. The base tier has no protection, while higher tiers offer increasing protection levels: Bronze 50%, Silver 75%, Gold 80%, Platinum 90%, Diamond 95%, and each additional Diamond stacked increases protection by 0.5%.
 
-### In conclusion, Decubate's decentralized refund policy demonstrates our commitment to empowering investors and ensuring transparency in the web3 space. We are confident that this feature will provide additional security and protection for our users, fostering trust and long-term success for investors and projects on our platform.
+In conclusion, Decubate's decentralized refund policy demonstrates our commitment to empowering investors and ensuring transparency in the web3 space. We are confident that this feature will provide additional security and protection for our users, fostering trust and long-term success for investors and projects on our platform.
 
 ## FAQ for Decubate's Decentralized Refund Policy
 #### What is the Grace Period? 
