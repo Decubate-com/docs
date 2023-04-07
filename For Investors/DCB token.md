@@ -1,5 +1,6 @@
 ---
 label: DCB Token
+icon: ":gem:"
 layout: default
 description: A comprehensive guide to understanding the utility, benefits, and importance of the Decubate (DCB) token.
 order: 98

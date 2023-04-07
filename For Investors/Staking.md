@@ -1,6 +1,7 @@
 ---
 label: Staking
 layout: default
+icon: ":bank:"
 order: 96
 ---
 # Decubate DCB liquidity staking

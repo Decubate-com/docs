@@ -1,5 +1,6 @@
 ---
 label: Getting Started
+icon: ":clipboard:"
 layout: default
 order: 100
 description: A step-by-step guide to setting up your Decubate account and getting started with the platform.

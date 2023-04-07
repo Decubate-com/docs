@@ -1,6 +1,7 @@
 ---
 label: Mediakit
 layout: default
+icon: ":file_folder:"
 order: 94
 ---
 # Mediakit

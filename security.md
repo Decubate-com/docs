@@ -1,6 +1,7 @@
 ---
 label: Security
 layout: default
+icon: ":closed_lock_with_key:"
 order: 98
 ---
 # Security

@@ -1,6 +1,7 @@
 ---
 label: Token Minting
 layout: default
+icon: ":printer:"
 order: 98
 ---
 ![](../static/Mint.png)

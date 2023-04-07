@@ -3,6 +3,7 @@ label: Refund Policy
 layout: default
 order: 95
 description: Refund policy
+icon: ":shield:"
 ---
 # Decubate Decentralized Refund Policy
 At Decubate, we believe in protecting our users' investments and ensuring the transparency of token sales on our platform. That's why we've created a comprehensive refund policy that provides the security and legality of every crowdfunding event. Our approach protects against continuous TGE delays, project rug pulls, malicious third-party refund practices, and team mismanagement while remaining compliant with Dutch regulations. Our revolutionary smart contract-based policy provides project teams and investors with a seamless and secure experience.

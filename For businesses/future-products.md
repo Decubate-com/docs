@@ -1,6 +1,7 @@
 ---
 label: Future products
 layout: default
+icon: ":crystal_ball:"
 order: 97
 ---
 # Future products

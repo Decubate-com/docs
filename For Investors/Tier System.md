@@ -1,6 +1,7 @@
 ---
 label: Tier System
 layout: default
+icon: ":medal:"
 order: 99
 ---
 

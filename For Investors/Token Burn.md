@@ -1,6 +1,7 @@
 ---
 label: DCB Burn
 layout: default
+icon: ":fire:"
 order: 94
 ---
 

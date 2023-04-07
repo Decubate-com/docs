@@ -1,5 +1,6 @@
 ---
 label: About us
+icon: ":busts_in_silhouette:"
 layout: default
 order: 95
 ---

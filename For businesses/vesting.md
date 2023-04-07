@@ -1,6 +1,7 @@
 ---
 label: Token vesting platform
 layout: default
+icon: ":calendar:"
 order: 100
 ---
 ![](../static/ATV.png)

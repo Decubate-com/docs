@@ -1,6 +1,7 @@
 ---
 label: Staking platform
 layout: default
+icon: ":chart_with_upwards_trend:"
 order: 99
 ---
 ![](../static/ATS.png)

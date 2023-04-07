@@ -1,6 +1,8 @@
 ---
 label: Genesis NFT
 layout: default
+icon: ":sparkles:"
+
 order: 95
 ---
 # Decubate Genesis NFT

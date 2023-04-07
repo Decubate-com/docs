@@ -1,7 +1,7 @@
 ---
 label: Introduction
-icon: note
 layout: default
+icon: ":globe_with_meridians:"
 order: 101
 ---
 # Introduction
