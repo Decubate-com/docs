@@ -38,4 +38,4 @@ _At Decubate, we understand the importance of security in the decentralized econ
 ## Bug bounty program
 The security of Decubate products is our number one priority. Get rewarded for identifying areas of improvement or issues with our smart contracts.
 
-[!ref target="blank" text="Learn more about the bug bounty program"](https://platform.decubate.com/bug-bounty)
+[!ref target="blank" text="Learn more about responsible disclosure and bug bounty program"](https://www.decubate.com/responsible-disclosure)
