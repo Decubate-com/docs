@@ -42,3 +42,24 @@ You can buy DCB on two different exchanges:
 [!ref target="blank" text="PanCakeSwap"](https://pancakeswap.finance/swap)
 [!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
 [!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
+
+## DCB TOKEN DISCLOSURE
+This disclosure is designed to inform potential investors, stakeholders, and users about the risks, conditions, and legal considerations associated with the use and holding of the Decubate (DCB) token.
+
+### Utility and Benefits
+The utility and benefits associated with DCB tokens, such as staking benefits, community governance participation, access to projects, enhanced voting power, and Learn to Earn events, are not guaranteed and may vary depending on various factors, including but not limited to, market conditions, the success of Decubate, and changes in the Decubate platform or its offerings.
+
+### Purchase and Use of DCB Tokens
+Users can purchase DCB tokens through specified exchanges. It is important to note that the purchase, possession, and use of DCB tokens involve significant risks, including the risk of loss of capital. The price of DCB tokens can be highly volatile, and investors could lose their entire investment.
+
+### Regulatory Status
+Based on our legal opinion, Issuing and Offering the DCB Token does not fall within the scope of the Dutch Financial Supervision Act (Wet op het financieel toezicht, "Wft") and related regulations, including the Prospectus Regulation, the Electronic Money Regulation, and the Payment Services Regulation. Therefore, Decubate does not require certain licenses or registrations related to the issuance, offering, and exchange of DCB tokens. This legal status may be subject to change based on future legislative or regulatory actions.
+
+### Risk Factors
+The DCB token and its functions are subject to various risk factors, including but not limited to, technological risks, market volatility, regulatory changes, cybersecurity threats, and changes in the functionality of the Decubate platform. Potential investors and users should consider these risk factors and their own personal circumstances before deciding to purchase or use DCB tokens.
+
+### Disclaimer
+Investors should only invest in DCB tokens with funds that they can afford to lose. Before making a decision to purchase DCB tokens, potential investors should undertake their own due diligence and consider consulting with a professional financial advisor.
+
+### Changes to Disclosure
+Decubate reserves the right to modify this disclosure document at any time to reflect changes in the law, the DCB token, the Decubate platform, or any other relevant circumstances. It is the responsibility of the DCB token holders and potential investors to regularly check for any updates to this disclosure.
