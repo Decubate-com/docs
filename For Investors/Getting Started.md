@@ -65,10 +65,5 @@ Each project may have its unique vesting period and release schedule, which will
 #### Q: Does Decubate have a refund policy?
 Decubate facilitates partial protection depending on your tier, where users can request a refund during a predetermined grace period if they haven’t claimed any vested tokens. Decubate complies with Dutch regulations and does not hold or manage user funds. Therefore, there are no conditions for which users can request refunds. It’s up to the user to decide whether to refund their investment during the grace period. All fees paid for the investment protection go automatically to buying back DCB or DCB liquidity pools.
 
-#### Q: How can I increase my investment protection?
-Investors can increase the investment protection percentage during the grace period by upgrading their tier. Decubate Base tier will have no protection, Bronze 50%, Silver 75%, Gold 80%, Platinum 90%, Diamond 95%, and each additional diamond stacked will increase protection by 0.5%. 
-
-This option promotes informed investment decisions while incentivizing users to upgrade their tiers, increasing DCB buybacks & burn and liquidity after crowdfunding events.
-
 #### Q: I claimed tokens but I want to refund my investment
 Unfortunately that's not possible. Decubate doesn't even have access to your funds, project funds, or manages your investments. Decubate platform facilitates token sales through smart contracts that can't be changed or revised. If you have claimed your vested tokens, you forfeit the right to ask for a refund and there is nothing Decubate can do about it.
