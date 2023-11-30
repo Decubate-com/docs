@@ -34,7 +34,7 @@ To begin using Decubate, follow these steps:
 [![BitMart](https://img.shields.io/badge/-Buy%20on%20BitMart-orange?style=for-the-badge&logo=bitmart)](https://www.bitmart.com/trade/en?layout=basic&theme=dark&symbol=DCB_USDT)
 
 ### Stake you DCB to earn a tier
-![Decubate Tier System](../static/membership-levels.png)
+![Decubate Tier System](../static/tier_system_image.png)
 
 1. Head over to https://platform.decubate.com/staking
 2. Connect your wallet that hold DCB.

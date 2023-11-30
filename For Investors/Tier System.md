@@ -5,7 +5,7 @@ icon: ":medal:"
 order: 99
 ---
 
-![Decubate Tier System](../static/membership-levels.png)
+![Decubate Tier System](../static/tier_system_image.png)
 # Club Overview
 They say it’s hard to master two things at once. We disagree. In addition to developing industry-leading web3 software products, we operate a members-only investor club.
 
