@@ -32,4 +32,4 @@ If you have any questions or inquiries, please reach out to us at:
 - [Email](mailto:info@decubate.com)
 - [Twitter](https://twitter.com/Decubate)
 - [Telegram Global community](https://t.me/decubate)
-- [Telegram announcements](https://t.me/decubateannouncements)
+- [Telegram announcements](https://t.me/Decubateann)
