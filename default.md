@@ -37,7 +37,7 @@ At Decubate, we uphold the following core values:
 
 ## Services and DeFi Solutions
 
-Decubate offers a comprehensive suite of services and DeFi solutions to help entrepreneurs and investors succeed in the web3 economy. Our range of services includes funding, community crowdfunding, market making, incubation/advisory, and more, tailored to meet the diverse needs of our users.
+Decubate offers a suite of services and DeFi solutions to help entrepreneurs and investors succeed in the web3 economy. Our range of services includes funding, community crowdfunding, market making, incubation/advisory, and more, tailored to meet the diverse needs of our users.
 
 
 - Website: https://decubate.com/

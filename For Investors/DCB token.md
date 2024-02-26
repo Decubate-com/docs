@@ -37,9 +37,11 @@ The DCB token plays a vital role in the Decubate ecosystem by:
 
 
 ## Buy DCB
-
-You can buy DCB on two different exchanges:
-[!ref target="blank" text="PanCakeSwap"](https://pancakeswap.finance/swap)
+You can buy DCB on any of the following exchanges:
+[!ref target="blank" text="Gate.io"](https://gate.io/trade/DCB_USDT)
+[!ref target="blank" text="MEXC"](https://www.mexc.com/exchange/DCB_USDT)
+[!ref target="blank" text="BitPanda"](https://www.bitpanda.com/en/prices/decubate-dcb)
+[!ref target="blank" text="PancakeSwap"](https://pancakeswap.finance/swap)
 [!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
 [!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
 
