@@ -38,10 +38,14 @@ Value creation starts here. Join our investor club to access early-stage investm
 
 To become an investor club member, complete the following steps. 
 1. First, create a Decubate account. Be sure to successfully complete both identity and wallet verification
-2. Buy DCB tokens from PancakeSwap or Bitmart
+2. Buy DCB tokens from one of the following exchanges:
 
+[!ref target="blank" text="Gate.io"](https://gate.io/trade/DCB_USDT)
+[!ref target="blank" text="MEXC"](https://www.mexc.com/exchange/DCB_USDT)
+[!ref target="blank" text="BitPanda"](https://www.bitpanda.com/en/prices/decubate-dcb)
 [!ref target="blank" text="PancakeSwap"](https://pancakeswap.finance/swap)
-[!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?symbol=DCB_USDT)
+[!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
+[!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
 
 3. Secure your Decubate membership by staking our DCB token in one of our staking pools. To increase your level, simply meet the corresponding staking requirement. Your membership level will appear on the upper right hand side of the Decubate platform (you must be logged in to view it).
 
