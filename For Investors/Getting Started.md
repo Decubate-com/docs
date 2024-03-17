@@ -29,9 +29,13 @@ To begin using Decubate, follow these steps:
 
 ### 2. Buy Decubate tokens to upgrade your tier
 
-[![PancakeSwap](https://img.shields.io/badge/-Buy%20on%20PancakeSwap-blue?style=for-the-badge&logo=pancakeswap)](https://pancakeswap.finance/swap?inputCurrency=0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56&outputCurrency=0xEAc9873291dDAcA754EA5642114151f3035c67A)
-
-[![BitMart](https://img.shields.io/badge/-Buy%20on%20BitMart-orange?style=for-the-badge&logo=bitmart)](https://www.bitmart.com/trade/en?layout=basic&theme=dark&symbol=DCB_USDT)
+[!ref target="blank" text="Gate.io"](https://gate.io/trade/DCB_USDT)
+[!ref target="blank" text="MEXC"](https://www.mexc.com/exchange/DCB_USDT)
+[!ref target="blank" text="BitPanda"](https://www.bitpanda.com/en/prices/decubate-dcb)
+[!ref target="blank" text="PancakeSwap"](https://pancakeswap.finance/swap)
+[!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
+[!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
+[!ref target="blank" text="BingX"](https://bingx.com/it-it/spot/DCBUSDT/)
 
 ### Stake you DCB to earn a tier
 ![Decubate Tier System](../static/tier_system_image.png)

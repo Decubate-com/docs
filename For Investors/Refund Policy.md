@@ -14,7 +14,7 @@ Decubate is excited to announce the launch of our latest feature, a decentralize
 Decubate's decentralized refund policy results from careful consideration and collaboration within our community. The policy was voted on by the Decubate DAO, with an overwhelming 92% majority from Decubate investors, highlighting the strong support for this innovative feature.
 
 ## Refund eligibility: 
-All users, regardless of their tier (from Base to Diamond), are eligible to receive up to 100% refunds during the Grace Period (5 to 7 days). The policy introduces a predetermined Grace Period that starts at the token listing and continues until the end of the grace period. During this time, users can either claim tokens or request a refund. If tokens are claimed, they lose refund eligibility.
+All users, regardless of their tier (from Base to Diamond), are eligible to receive up to **100% refunds** during the Grace Period (5 to 7 days). The policy introduces a predetermined Grace Period that starts at the token listing and continues until the end of the grace period. During this time, users can either claim tokens or request a refund. If tokens are claimed, they lose refund eligibility.
 
 ## Protection fee: 
 After the third Decubate DAO vote, we introduced a protection fee, requiring investors to stake DCB tokens to access tier benefits. This encourages tier upgrades and attracts notable investors, with all protection fees funding DCB buybacks, burns, or liquidity pools, in order to make better investment decisions, and attract more prominent investors to our platform. 100% of all protection fees go to DCB buybacks & burns or DCB liquidity pools.
