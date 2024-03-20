@@ -36,6 +36,7 @@ To begin using Decubate, follow these steps:
 [!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
 [!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
 [!ref target="blank" text="BingX"](https://bingx.com/it-it/spot/DCBUSDT/)
+[!ref target="blank" text="LBank"](https://www.lbank.com/en-US/trade/dcb_usdt/)
 
 ### Stake you DCB to earn a tier
 ![Decubate Tier System](../static/tier_system_image.png)
