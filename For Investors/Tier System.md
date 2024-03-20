@@ -47,6 +47,7 @@ To become an investor club member, complete the following steps.
 [!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
 [!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
 [!ref target="blank" text="BingX"](https://bingx.com/it-it/spot/DCBUSDT/)
+[!ref target="blank" text="LBank"](https://www.lbank.com/en-US/trade/dcb_usdt/)
 
 3. Secure your Decubate membership by staking our DCB token in one of our staking pools. To increase your level, simply meet the corresponding staking requirement. Your membership level will appear on the upper right hand side of the Decubate platform (you must be logged in to view it).
 

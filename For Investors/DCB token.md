@@ -45,6 +45,7 @@ You can buy DCB on any of the following exchanges:
 [!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
 [!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
 [!ref target="blank" text="BingX"](https://bingx.com/it-it/spot/DCBUSDT/)
+[!ref target="blank" text="LBank"](https://www.lbank.com/en-US/trade/dcb_usdt/)
 
 ## DCB TOKEN DISCLOSURE
 This disclosure is designed to inform potential investors, stakeholders, and users about the risks, conditions, and legal considerations associated with the use and holding of the Decubate (DCB) token.
