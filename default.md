@@ -19,4 +19,4 @@ For investors, Decubate is a gateway to the future. Our curated selection of hig
 - Website: https://decubate.com/
 - Platform: https://platform.decubate.com/
 - Token: DCB
-- Contract: 0xEAc9873291dDAcA754EA5642114151f3035c67A2 (Binance Smart Chain)
+- Contract: 0xEAc9873291dDAcA754EA5642114151f3035c67A2 [(Binance Smart Chain)](https://bscscan.com/address/0xeac9873291ddaca754ea5642114151f3035c67a2)
