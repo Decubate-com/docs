@@ -4,8 +4,10 @@ url: docs.decubate.com
 branding:
   label: Docs
   logo: static/Decubate-logo-black.png
+navigation:
+  - label: The Mission
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Visit Decubate
+  link: https://decubate.com
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
