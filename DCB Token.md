@@ -5,7 +5,7 @@ icon: ":gem:"
 order: 99
 ---
 # DCB Token
-Explore the variety of exchanges offering DCB and start trading with ease. Each platform provides a unique trading experience tailored to your needs. Find your preferred marketplace below and begin your investment journey with DCB today.
+At the heart of Decubate lies the DCB token, a cornerstone that powers every facet of the platform, delivering extensive benefits to its holders. Explore the variety of exchanges offering DCB and start trading with ease. Each platform provides a unique trading experience tailored to your needs. Find your preferred marketplace below and begin your investment journey with DCB today. 
 
 
 [!ref Gate.io](https://gate.io/trade/DCB_USDT)
