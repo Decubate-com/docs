@@ -2,7 +2,7 @@
 label: About us
 icon: ":busts_in_silhouette:"
 layout: default
-order: 95
+order: 75
 ---
 # About Decubate
 

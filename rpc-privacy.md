@@ -2,7 +2,7 @@
 label: RPC Privacy
 layout: default
 icon: ":closed_lock_with_key:"
-order: 97
+order: 71
 ---
 # Zero-tracking
 Decubate shields user data and metadata before requests are relayed to RPC providers. Its lightweight design is able to scale to support high traffic volume. 

@@ -2,7 +2,7 @@
 label: Mediakit
 layout: default
 icon: ":file_folder:"
-order: 94
+order: 70
 ---
 # Mediakit
 All of our approved brand assets in one place! Download our logos, fonts, style guide and more. 

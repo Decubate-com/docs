@@ -4,7 +4,7 @@ layout: default
 icon: ":globe_with_meridians:"
 order: 101
 ---
-# Introduction
+# Introduction to Decubate Ecosystem
 Decubate started with a vision: to provide a platform for Web3 entrepreneurs to launch innovative ideas. We are known for our role as a launchpad in the Web3 community. But, we always aimed for more. We understood the importance of **creating an ecosystem**, a supportive space where projects can thrive and achieve their maximum potential. This is where our real mission came into focus.
 
 Today, **Decubate stands as a testament to that mission.** Our platform has grown into a diverse ecosystem that attracts investors in search of top-notch projects and entrepreneurs eager to start their journey into the world of Web3. Our blend of a launchpad's excitement and a long-term support system's stability sets us apart.
@@ -15,6 +15,8 @@ For investors, Decubate is a gateway to the future. Our curated selection of hig
 
 **Thank you** for stepping into the world of Decubate—your presence strengthens our dynamic ecosystem dedicated to fostering groundbreaking Web3 projects. As you explore our diverse offerings, we encourage you to navigate the menu on the left to discover how we can achieve transformative results, **together**.
 
+|||
+|||
 
 - Website: https://decubate.com/
 - Platform: https://platform.decubate.com/

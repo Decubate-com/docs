@@ -2,7 +2,7 @@
 label: Security
 layout: default
 icon: ":closed_lock_with_key:"
-order: 98
+order: 80
 ---
 # Security
 _In today's fast-paced digital world, security is a critical aspect in the decentralized economy. At Decubate, we understand the importance of ensuring the security of our platform, services and token DCB. This is why we have taken extensive measures to ensure the highest level of security for our users._
