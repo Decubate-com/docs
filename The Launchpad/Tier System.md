@@ -1,56 +1,56 @@
 ---
-label: Tier System
+label: Tier System & Allocation
 layout: default
 icon: ":medal:"
 order: 99
 ---
 
-![Decubate Tier System](../static/tier_system_image.png)
-# Club Overview
-They say it’s hard to master two things at once. We disagree. In addition to developing industry-leading web3 software products, we operate a members-only investor club.
 
-- Investor club: a web3 investment community that’s focused on value creation. Members participate in token sales, token airdrops, staking pools, liquidity pools and more.
-- Personalized investment portfolio: track the status of all of your investor club activities in one place.
-Safe & secure: all investor club smart contracts have been audited by an industry-leading security firm.
-- Membership in minutes: create an account, KYC and meet the Decubate token (DCB) staking requirement to join up.
+# Tier System & Allocation
+
+The Decubate Tier System is a clear system that determines the access and perks users receive based on their platform activity, specifically the $DCB tokens they stake. It aims to **motivate and compensate users for engaging with the ecosystem**, ultimately making investing more accessible and promoting greater user participation.
+--![](../static/Tier-List.png)
 
 ## Benefits
-1. Invest in highly-vetted web3 projects.
-2. Generate passive recurring income.
-3. Earn token airdrops and NFTs.
+The Tier System is crucial because it customizes investment experiences, aligning rewards for active users and newcomers. This fosters long-term commitment and stable growth for the platform and its users. Here the benefit you can have based on yout tier:
 
-## Features
-- Participate in token sales of highly-vetted projects
-- Receive limited-edition NFTs for participating in project token sales
-- Earn free tokens from partner projects
-- Receive DCB rewards for staking DCB
-- Receive partner token rewards for staking DCB
-- Receive DCB and partner token rewards for providing liquidity
-- Keep track of all your Decubate related investments in one place
-- Socialize and learn from a sophisticated group of like-minded investors
-- Earn DCB rewards for successfully onboarding new investor club members
-- Governance: coming soon
-- Reputation system: coming soon
-- Token Burning: coming soon
+- **100% Refund Eligibility**: from the Base Tier, users during the Grace Period can obtain a full refund, providing a safety net for new investments.
+- **Guaranteed Allocations (GA) in IDOs**: from the **Free Base Tier** upwards, users receive guaranteed token allocations in IDOs.
+- **Voting Access**: beginning with Bronze, users get a say in Decubate's governance through voting rights.
+- **Allocation Increases**: every tier up from Base **provides an increase in IDO allocation**, doubling from Bronze to Silver and so forth. Reaching the Diamond Tier is an achievement, but it's not the final destination. For the highly invested members, the option to stake more DCB tokens opens the door to even higher echelons, such as Diamond 2 Tier and beyond. For example, staking 400,000 DCB tokens would place you in Diamond 2 Tier, doubling the multiplier effect of your investments and influence within the ecosystem.
+- **Learn to Earn Access**: gold and higher tiers offer guaranteed access to educational events with token airdrops (This may vary based on the project: in the past we hosted L2E Events also from the Base Tier).
+- **Ambassador Program**: exclusive to the Gold Tier and higher tier, members can refer friends and earn $DCB tokens.
 
-## Membership
-Value creation starts here. Join our investor club to access early-stage investment opportunities. 
 
-To become an investor club member, complete the following steps. 
-1. First, create a Decubate account. Be sure to successfully complete both identity and wallet verification
-2. Buy DCB tokens from one of the following exchanges:
+:bulb: Members have the opportunity to increase their tier status by choosing longer staking periods. By locking DCB tokens for an extended time, you not only **earn higher annual percentage yields (APYs)**, but also **receive significant boosts to your tier level**. 
+For example:
+- Staking DCB for 120 days results in a **+20% boost** to your tier level. 
+- Locking DCB for a full year gives you a generous **+50% boost**. 
+These boosts reduce the amount of DCB needed to stake in order to reach a specific tier, simplifying the process of moving up the tier ladder.
+- Additionally, Decubate offers options such as the USDT/DCB pool. This pool provides a **100% boost** for tier progression.
 
-[!ref target="blank" text="Gate.io"](https://gate.io/trade/DCB_USDT)
-[!ref target="blank" text="MEXC"](https://www.mexc.com/exchange/DCB_USDT)
-[!ref target="blank" text="BitPanda"](https://www.bitpanda.com/en/prices/decubate-dcb)
-[!ref target="blank" text="PancakeSwap"](https://pancakeswap.finance/swap)
-[!ref target="blank" text="ApeSwap"](https://app.apeswap.finance/swap)
-[!ref target="blank" text="Bitmart"](https://www.bitmart.com/trade/en-US?layout=basic&theme=dark&symbol=DCB_USDT)
-[!ref target="blank" text="BingX"](https://bingx.com/it-it/spot/DCBUSDT/)
-[!ref target="blank" text="LBank"](https://www.lbank.com/en-US/trade/dcb_usdt/)
+|||
+|||
 
-3. Secure your Decubate membership by staking our DCB token in one of our staking pools. To increase your level, simply meet the corresponding staking requirement. Your membership level will appear on the upper right hand side of the Decubate platform (you must be logged in to view it).
+### The Tier System & Allocation Explained with an Example :girl:
+- **Getting Started: Base Tier** Emma stumbles upon Decubate and is intrigued by its goal of making Web3 investments accessible to all. She creates a verified and KYCed account for free and is placed in the Base Tier, where she can experience the platform with 1x Guaranteed Allocations in IDOs and the option for a 100% refund during the Grace Period. 
+- **Advancing: Bronze to Gold Tiers** After seeing some success, Emma decides to stake 10,000 DCB tokens, moving her up to the Bronze Tier. In this tier, she now has access to 2x IDO allocations and can participate in platform decisions through DAO voting. Emma continues to progress, increasing her stake gradually and moving up to the Silver and Gold Tiers. Along the way, she gains more allocations and gains entry to Learn to Earn events. 
+- **The Peak: Platinum and Beyond** After hard work and smart financial decisions, Emma has achieved a major milestone. She has advanced to the prestigious Diamond Tier, which is a significant increase from her previous Platinum Tier status. As a Diamond Club member, she now enjoys even greater benefits such as 40x allocations in IDOs, access to the ambassador program, and exclusive deals offered only to members of this elite group. :point_down:
+
+[!ref target="blank" text="Start Your Climb, Start Staking"](https://platform.decubate.com/staking)
+
+|||
+|||
+
+## The Diamond Club
+--![](../static\diamond-club.webp)
+:gem: Diamond Tier Members have access to exclusive deals like [Read More](https://www.decubate.com/blog/decubates-diamond-club-the-apex-of-crypto-elite):
+- Exclusive Access and Networking;
+- Priority Token Allocations and Private IDO Rounds;
+- Early Access to Innovations;
+- Direct Communication with Decision-Makers;
+- More to come! :point_down:
+
 
 [!ref target="blank" text="Create your account"](https://platform.decubate.com/register)
 
-The investor club consists of six levels of membership. Simply meet the Decubate token (DCB) staking requirement of your desired membership level. The benefits of each membership level are outlined in the image below. Note* The difference between Base, Bronze and Silver membership levels is the investment allocation amount for crowdfunding events (token sales). 
