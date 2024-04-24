@@ -49,13 +49,14 @@ The allocation for each Tier level in some of our previous IDO is presented in t
 
 ## **The Diamond Club**
 --![](../static\diamond-club.webp)
-:gem: Diamond Tier Members have access to exclusive deals like [Read More](https://www.decubate.com/blog/decubates-diamond-club-the-apex-of-crypto-elite):
+:gem: Diamond Tier Members have access to exclusive deals like:
+
 - Exclusive Access and Networking;
 - Priority Token Allocations and Private IDO Rounds;
 - Early Access to Innovations;
 - Direct Communication with Decision-Makers;
-- More to come! :point_down:
-
+- More to come!
+- [Read More](https://www.decubate.com/blog/decubates-diamond-club-the-apex-of-crypto-elite) & :point_down:
 
 [!ref target="blank" text="Create your account"](https://platform.decubate.com/register)
 
