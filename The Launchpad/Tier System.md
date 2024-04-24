@@ -38,6 +38,11 @@ These boosts reduce the amount of DCB needed to stake in order to reach a specif
 - **The Peak: Platinum and Beyond** After hard work and smart financial decisions, Emma has achieved a major milestone. She has advanced to the prestigious Diamond Tier, which is a significant increase from her previous Platinum Tier status. As a Diamond Club member, she now enjoys even greater benefits such as 40x allocations in IDOs and exclusive deals offered only to members of this elite group. :point_down:
 
 [!ref target="blank" text="Start Your Climb, Start Staking"](https://platform.decubate.com/staking)
+### Previous Allocations Based on Tier Levels
+--![](../static\Allocation.png)
+The allocation for each Tier level in some of our previous IDO is presented in the table. It's crucial to note that this **allocation may vary based on the number of whitelisted participants**. Specifically, as the number of whitelisted individuals increases, the total allocation will be divided among participants accordingly.
+
+[!ref target="blank" text="Get Your Tier Today"](https://platform.decubate.com/staking)
 
 |||
 |||
