@@ -2,7 +2,7 @@
 label: DCB Burn
 layout: default
 icon: ":fire:"
-order: 94
+order: 91
 ---
 
 ![](../static/Burn.png)

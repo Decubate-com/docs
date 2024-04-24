@@ -1,7 +1,7 @@
 ---
 label: Refund Policy
 layout: default
-order: 95
+order: 88
 description: Refund policy
 icon: ":shield:"
 ---

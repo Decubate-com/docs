@@ -3,7 +3,7 @@ label: DCB Token
 icon: ":gem:"
 layout: default
 description: A comprehensive guide to understanding the utility, benefits, and importance of the Decubate (DCB) token.
-order: 95
+order: 87
 ---
 # DCB Token
 Decubate is dedicated to revolutionizing the decentralized economy and empowering businesses and investors to unlock its full potential. Our platform offers a wide range of services and products to make participating in the decentralized economy seamless, accessible, and innovative. To drive this transformation, Decubate has created DCB, a BEP20 utility token that powers the platform.
