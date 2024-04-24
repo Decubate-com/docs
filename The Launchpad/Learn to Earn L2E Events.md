@@ -17,5 +17,5 @@ _By increasing your tier level during an ongoing L2E event, you're essentially u
 Usually lasting for around a month, these occasions offer plenty of opportunity for a large number of people to join in and earn tokens. To keep the tokens valuable and guarantee ongoing involvement after the event, they are typically vested. This entails releasing them gradually over a period of time, aligning your interests with the project's long-term prosperity.
 #### Why Participate?
 
-Decubate's L2E events offer a great way to avoid the complicated and time-consuming procedures usually linked with crypto airdrops. No more searching on various platforms and feeling upset about missed chances. Having already airdropped $2.7M (ATH prices) via our L2E events, we prove the success and appeal of our method.
+Decubate's L2E events offer a great way to avoid the complicated and time-consuming procedures usually linked with crypto airdrops while gaining invaluable insights into potential game-changing projects! No more searching on various platforms and feeling upset about missed chances. Having already airdropped $2.7M (ATH prices) via our L2E events, we prove the success and appeal of our method.
 [!ref target="blank" text="Check Live or Upcoming L2E Events"](https://platform.decubate.com/#events)
