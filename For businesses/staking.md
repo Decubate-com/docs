@@ -1,51 +1,48 @@
 ---
-label: Staking platform
+label: Staking Platform
 layout: default
 icon: ":chart_with_upwards_trend:"
 order: 99
 ---
 ![](../static/ATS.png)
-# White label staking platform
+# White Label Staking Platform
+Eliminate the need to invest valuable time and resources into crafting your own staking solution. Decubate provides everything you need to get started quickly and efficiently.
 
-Take control of your token economy. Deliver compelling staking experiences to reward long-term holders, fast.
+Imagine a world where your token holders are actively engaged, rewarded for their loyalty, and incentivized to hold for the long term. Decubate's [White Label Staking Platform](https://www.decubate.com/token-staking-platform) empowers you to achieve precisely that by providing a suite of tools designed to **easily design, deploy, and manage staking** pools that seamlessly integrate with your project's unique tokenomics.
 
-- Staking portal: a user friendly yet sophisticated staking portal that supports a wide array of strategies and reward types.
-- Highly customizable: all portal design elements are configurable to deliver a seamless brand experience. 
-- Safe & secure: EVM compatible smart contract audited by an industry-leading security firm.
-- Setup in minutes: our intuitive portal management panel makes staking pool setup hassle free.
+## Token Utility and User Engagement
+The Staking Platform grants you the ability to imbue your token with unparalleled utility, incentivizing users to actively participate in your ecosystem.
 
-## Benefits
-- Instantly increase token utility.
-- Incentivize and reward token holders with passive yields.
-- Improve token price stability by locking circulating tokens.
+- **Reward Loyalty**: Cultivate a dedicated community by offering attractive staking rewards distributed in the form of tokens, NFTs, or even whitelisting privileges for exclusive events.
+- **Stimulate Engagement**: Foster a vibrant user base by gamifying the staking experience. Users will be actively involved, monitoring their rewards and eagerly anticipating future staking pool offerings.
+- **Promote Stability**: By locking tokens within staking pools, you inherently reduce circulating supply, contributing to greater price stability for your token.
 
-## Features
-1. Intuitive UX for ease of use across all devices. 
-2. Customize all design elements including staking portal color, buttons, logo, fonts and more. 
-3. Multiple staking staking reward strategies supported including compounding rewards, NFT rewards and more.
-4. Portal management panel to generate staking strategies in minutes. 
-5. Analytics dashboard to access token holder insights. 
-6. Fully audited EVM compatible smart contract. 
-7. Leading wallets supported including Metamask, Trust Wallet, Coin98 Wallet, Wallet Connect and more. 
-8. Multiple blockchain supported including Binance Smart Chain, Ethereum, AVAX and Polygon.
+## Pool Creation and Management
+Decubate empowers you to take complete control over your staking program through our user-centric platform, eliminating the need for extensive technical expertise.
 
-## Some of our clients
+- **Intuitive Interface**: Effortlessly configure staking rewards, APY, pool duration, and capacity with our straightforward interface, designed for optimal usability.
+- **Flexible Pool Options**: Tailor your staking program to your specific needs by selecting from a diverse range of staking pool types, including token-locking, liquidity token, or NFT staking pools.
+- **Real-Time Analytics**: Gain valuable insights into pool performance with our comprehensive analytics dashboard. Monitor key metrics and adjust parameters as needed to optimize your staking program for maximum impact.
 
-1. Algoblocks: https://www.algoblocks.io/ 
-2. ARize: https://www.arize.io/
-3. Chirpley: https://chirpley.ai/ 
-4. Digital Arms: https://www.hunter-token.com/ 
-5. Ethereum Towers: https://ethereumtowers.com/
+## Security and Customization
+Decubate prioritizes the security of your assets and the integrity of your staking program.
 
-## Testimonials
-“We used Decubate’s staking product to quickly establish a staking solution before listing our ALGOBLK token on exchanges. Whilst we reviewed other vendors in the market and even considered building our own, we found Decubate’s solution to be innovative, fair priced and easy to implement.”
+- **Secure & Audited**: Our platform leverages robust, independently audited smart contracts to ensure the safety of your funds and the complete transparency of your staking program.
+- **Seamless Brand Integration**: Maintain a cohesive brand experience by customizing your staking portal to perfectly reflect your unique brand identity.
+- **EVM Compatibility**: Enjoy unparalleled flexibility by launching and managing staking pools on any EVM-compatible blockchain.
 
-_AlgoBlocks CEO, Joseph Kim_
+## How it Works & Key Features
+[!embed height="400"](https://www.youtube.com/watch?v=Cvf-cqEWNQg)
+Here's a closer look at what you can expect:
 
-## Demo
-Contact us to learn more about Decubate Staking: https://share-eu1.hsforms.com/1MAJTri8sRxO5OmKL7DaktQf5bmh
+- **Effortless Pool Creation**: Set pool parameters, including APY, lock period, and capacity, in minutes with our intuitive interface.
+- **Multiple Staking Options**: Choose from token-locking, liquidity token, or NFT staking pools to meet your specific needs.
+- **Advanced Reward Structures**: Incentivize users with a variety of reward options, including token rewards, NFTs, and whitelisting.
+- **NFT Boost Functionality**: Reward users who hold your NFTs with an APY boost, fostering deeper project engagement.
+- **Mobile-Optimized Interface**: Ensure a smooth user experience for all stakeholders with a mobile-friendly staking portal.
+- **Real-time Analytics Dashboard**: Gain valuable insights into pool performance and make informed decisions with data visualization tools.
 
-## Audit
-The Decubate Staking smart contract has been successfully audited by Haechi. An industry leading auditing firm, Haechi has completed smart contract audits for over 300 partners including the Ethereum Foundation, 1inch and SushiSwap.
 
-Audit report: https://github.com/Decubate-com/public-repository
+## Get Started Today with a Demo
+Empower your tokenomics and unlock the full potential of your project with Decubate's white-label staking platform. Contact us today to learn more about how Decubate can help you achieve your goals. 
+[!ref target="blank" text="Contact Us"](https://share-eu1.hsforms.com/1MAJTri8sRxO5OmKL7DaktQf5bmh)

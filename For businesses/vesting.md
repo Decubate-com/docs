@@ -1,63 +1,48 @@
 ---
-label: Token vesting platform
+label: Token Vesting Platform
 layout: default
 icon: ":calendar:"
 order: 100
 ---
-![](../static/ATV.png)
-# White label token vesting and claim portal
+![](../static/decubate-ecosystem.png)
+# Decubate White Label Vesting Portal
 
-Distribute project tokens to investors with confidence. Our highly customizable token claim portal makes token management easy. 
+Welcome to the [Decubate White Label Vesting Portal](https://www.decubate.com/token-vesting-portal), your solution for automating, managing, and customizing token distribution. Our platform empowers businesses to streamline their token distribution processes with ease, ensuring a seamless experience for both token issuers and recipients.
 
-- Token claim portal: a premium destination for investors to manage and claim their tokens. 
-- Highly customizable: all portal design elements are configurable to deliver a seamless brand experience.
-- Safe & secure: EVM compatible smart contract audited by an industry-leading security firm.
-- Setup in minutes: our intuitive portal management panel makes vesting strategy setup pain-free. Non-technical team members rejoice!
+### Automate Token Distribution Effortlessly
+Say goodbye to manual token distribution processes and hello to efficiency and cost-effectiveness. With the Decubate White Label Vesting Portal, automate the distribution of your tokens, allowing you to redirect your time and resources towards business growth. Our intuitive platform simplifies the entire token distribution process, from setup to execution.
 
-## Benefits
-- Enable long-term relationships with members of your token ecosystem.
-- Improve token price stability by disincentivizing speculation through cliffs.
-- Save time and money by eliminating manual monthly airdrops.
+### Customize Vesting Schedules with Ease
+Tailor your token vesting schedules effortlessly to meet your unique business needs. Whether you prefer a linear vesting schedule, cliffs, or a more complex distribution strategy, our platform offers the flexibility and tools required to make it happen. With just a few clicks, customize and manage your vesting schedules to align perfectly with your business objectives.
 
-## Features
+### Increase Token Holder Engagement & Retention
+Retain and engage your token holders throughout the entire vesting duration with our customizable branding options and user-friendly interface. Track the performance of your vesting strategies and make data-driven decisions to optimize your token distribution efforts. Provide a seamless and engaging experience for your token holders to foster long-term relationships and enhance satisfaction.
 
-- Intuitive UX for ease of use across all devices.
-- Customize all design elements including vesting portal color, buttons, logo, fonts and more. 
-- Multiple vesting strategies supported including linear and monthly token distribution.
-- Portal management panel to generate vesting strategies in minutes.
-- Analytics dashboard to access token holder insights.
-- Fully audited EVM compatible smart contract.
-- Leading wallets supported including Metamask, Trust Wallet, Coin98 Wallet, Wallet Connect and more.
-- Multiple blockchain supported including Binance Smart Chain, Ethereum, AVAX and Polygon.
+## How it Works & Key Features
+[!embed height="400"](https://www.youtube.com/watch?v=Zvklax1osSI)
+Explore below to learn more about how our platform can revolutionize your token distribution strategy.
+- **Simple and Streamlined Token Distribution**: Our platform simplifies the token distribution process, saving you time and resources.
+- **Customizable Vesting Schedules**: Choose from various vesting schedules or create your custom schedule to fit your business needs.
+- **User-Friendly Interface**: Benefit from an intuitive interface that makes it easy to manage your vesting strategies and for token holders to claim their tokens.
+- **Management Panel**: An intuitive management panel enables you to create and customize your vesting strategies effortlessly in few minutes.
+- **Analytics Dashboard**: Gain valuable insights into the performance of your vesting strategies with our analytics dashboard.
+- **Token Holder Communication Tools**: Engage with your token holders and keep them informed throughout the vesting period with customizable communication tools.
+- **Customizable Branding**: Incorporate your company's branding into the platform for a seamless and cohesive experience for your token holders.
 
-## Some of our clients
-1. ARize: https://arize.io/ 
-2. Bit Hotel: https://bithotel.io/ 
-3. Sidus Heroes: https://sidusheroes.com/ 
-4. BattleVerse: https://battleverse.io/ 
-5. Rebel Bots: https://www.rebelbots.com/ 
-6. Solidus Labs: https://www.soliduslabs.com/ 
-7. Animalia: https://animalia.games/ 
-8. Codyfight: https://codyfight.com/
-9. Ethereum Towers: https://ethereumtowers.com/ 
-10. Chirpley: https://chirpley.ai/
+### **Support for Multiple Blockchains**
+Enjoy flexibility and choice with our platform's support for multiple EVM-compatible blockchain platforms.
+![](../static/EVM-compatibility.png)
 
-## Testimonials
-“Decubate’s vesting solution allowed us to arrange our token distribution rapidly. UI/UX for both administration and investors really stands out and allows to deal with token vesting intuitively. Worth mentioning that support and communication deserve an independent 5-star review!
+### **Advanced Security Measures**
+We prioritize the security of your tokens and token holders' information with advanced security measures and regular audits.
 
-_BattleVerse CEO, Vlad Dryamov_
+**Battle-tested from 50.000+ users.**
+![](../static/Security.png)
 
-“Decubate was a critical part of our token launch strategy. Their vesting and staking products allowed us to quickly deliver value and utility to our community without the delays and technical debt of building our own solution.”
+### **Wallet Support**
+No matter which wallet you use, we are prepared to accommodate you. Decubate offers complete support for Web3-Onboard defaults to make starting hassle-free. It's secure, fast, and just a click away.
+![](../static/Wallet-support.jpg)
 
-_ARize CEO, Aryan Behzadi_
-
-"Decubate is a professional and transparent tech partner of Bit Hotel that has enabled quick deployments of all kinds of ecosystem web-3 services around our Gamefi metaverse. Great design and customizability, definitely recommend working with them."
-
-_Bit Hotel CEO, Leon Lanen_
-
-## Demo
-Contact us to learn more about Decubate Vesting: https://share-eu1.hsforms.com/1MAJTri8sRxO5OmKL7DaktQf5bmh 
-Audit
-The Decubate Vesting smart contract has been successfully audited by Haechi. An industry leading auditing firm, Haechi has completed smart contract audits for over 300 partners including the Ethereum Foundation, 1inch and SushiSwap.
-
-Audit report: https://github.com/Decubate-com/public-repository
+## Get Started Today with a Demo
+Ready to streamline your token distribution process and enhance token holder engagement? Contact us today to learn more about the Decubate White Label Vesting Portal and schedule a demo. Take your token distribution efforts to the next level with Decubate. 
+[!ref target="blank" text="Contact Us"](https://share-eu1.hsforms.com/1MAJTri8sRxO5OmKL7DaktQf5bmh)
