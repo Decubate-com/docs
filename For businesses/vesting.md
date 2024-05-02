@@ -4,10 +4,10 @@ layout: default
 icon: ":calendar:"
 order: 100
 ---
-![](../static/decubate-ecosystem.png)
+![](../static/Vesting.jpg)
 # Decubate White Label Vesting Portal
 
-Welcome to the [Decubate White Label Vesting Portal](https://www.decubate.com/token-vesting-portal), your solution for automating, managing, and customizing token distribution. Our platform empowers businesses to streamline their token distribution processes with ease, ensuring a seamless experience for both token issuers and recipients.
+Welcome to the Decubate [White Label Vesting Portal](https://www.decubate.com/token-vesting-portal), your solution for automating, managing, and customizing token distribution. Our platform empowers businesses to streamline their token distribution processes with ease, ensuring a seamless experience for both token issuers and recipients.
 
 ### Automate Token Distribution Effortlessly
 Say goodbye to manual token distribution processes and hello to efficiency and cost-effectiveness. With the Decubate White Label Vesting Portal, automate the distribution of your tokens, allowing you to redirect your time and resources towards business growth. Our intuitive platform simplifies the entire token distribution process, from setup to execution.

@@ -1,5 +1,5 @@
 ---
-label: DCB Token
+label: About DCB Token 
 layout: default
 icon: ":gem:"
 order: 99
@@ -7,7 +7,7 @@ order: 99
 # DCB Token
 At the heart of Decubate lies the DCB token, a cornerstone that powers every facet of the platform, delivering extensive benefits to its holders. Explore the variety of exchanges offering DCB and start trading with ease. Each platform provides a unique trading experience tailored to your needs. Find your preferred marketplace below and begin your investment journey with DCB today. 
 
-
+## Where to Buy DCB Token
 [!ref Gate.io](https://gate.io/trade/DCB_USDT)
 [!ref MEXC](https://www.mexc.com/exchange/DCB_USDT)
 [!ref Bitget](https://www.bitget.com/spot/DCBUSDT)
@@ -18,14 +18,55 @@ At the heart of Decubate lies the DCB token, a cornerstone that powers every fac
 [!ref BingX](https://bingx.com/it-it/spot/DCBUSDT/)
 [!ref LBank](https://www.lbank.com/en-US/trade/dcb_usdt/)
 
+|||
+|||
 
-:icon-arrow-left: You can explore the importance of holding DCB to enhance your experience and growth within the Decubate Ecosystem in the left panel.
+## DCB Token in the Decubate Ecosystem
+The DCB token stands as the cornerstone of the Decubate ecosystem, facilitating a diverse range of functionalities and opportunities for its holders
+
+1. **Tier Upgrades for Exclusive Access**: As users accumulate DCB tokens, they ascend through membership tiers, unlocking access to coveted privileges such as guaranteed allocations in IDO events and heightened participation in Learn to Earn initiatives.
+
+2. **Community Governance and Voting**: The possession of DCB tokens empowers holders to engage in community governance, granting them voting rights in crucial decision-making processes that steer the platform's future trajectory. Visit [Here](https://snapshot.org/#/decubategov.eth) to see all the recend DAO Proposal approved/refused
+
+3. **Exclusive Investment Opportunities**: DCB serves as the key to unlocking exclusive access to promising web3 projects and investment opportunities, providing holders with a gateway to high-potential ventures.
+
+4. **Liquidity Provision**: DCB tokens can be utilized to provide liquidity on the platform, enabling holders to earn compensation for their contribution to the ecosystem's liquidity pool.
+
+5. **Staking**: DCB holders leverage their tokens to participate in staking programs, earning attractive APY rewards while contributing to the platform's liquidity and stability.
+
+By integrating DCB tokens into the fabric of the Decubate ecosystem, we foster a dynamic environment characterized by active community participation, robust governance structures, and equitable access to transformative opportunities. DCB holders play a pivotal role in shaping the platform's evolution, driving innovation, and collectively steering the decentralized economy towards new frontiers of growth and prosperity.
+
+|||
+|||
+## Tokenomics :abacus:
+Decubate's token, DCB, is a critical component of our ecosystem. It provides investment rights to stakers, enables community governance, and facilitates access to our products and services. Our tokenomics have been carefully designed to ensure the long-term success of our platform and the value of DCB.
+![](../static/tokenomics.png)
+
+### Token Distribution
+There is a total token supply of 1 billion DCB. Launched on 6th of July 2021 with this [TX](https://bscscan.com/tx/0x3af9d011c7e8d785c9c8c8c2cf9246b3ee306a7e00ab304eb390033d77875bb0). The distribution of tokens is as follows:
+![](../static/Token-distributions.png)
+
+Decubate's token distribution is designed to promote a fair and balanced distribution of tokens among key stakeholders in the ecosystem. By allocating a significant portion of tokens to community rewards, Decubate is demonstrating its commitment to building a strong and engaged community of supporters who will have a vested interest in the success of the project. 
+
+### Treasury Tokens
+By allocating a portion of tokens to the treasury, Decubate is ensuring that the project has the resources it needs to fund ongoing development and expansion, while still maintaining a significant portion of tokens for the community. 
+It's important to note that Decubate has a profitable business model and<b> does not rely on these tokens for continuous operations</b> and does not intend to liquidate any tokens without the consent of a governance proposal.
+
+### Token Vesting
+![](../static/Emissions.png)
+One of the many positive aspects of Decubate's token vesting durations is that they are structured to encourage long-term commitment and investment. By gradually releasing tokens over a period of time, token holders are incentivized to remain invested in the project, rather than selling their tokens immediately after receiving them. This can help to create a more stable and committed community of token holders, who are aligned with the long-term success of the project. Additionally, by gradually releasing tokens, the potential for a large influx of tokens hitting the market and causing price volatility is minimized, creating a more stable and predictable market for the token.
+
 
 |||
 |||
 
+## DCB Token Burn :fire:
+![](../static/Burn.png)
+The DCB token burn represents a pivotal aspect of Decubate's commitment to optimizing tokenomics and fostering a resilient ecosystem. Through a meticulous process, we strategically repurchase DCB tokens from the market and direct them to a designated [burn wallet](https://bscscan.com/tokenholdings?a=0x000000000000000000000000000000000000dead), effectively reducing the overall token supply. This initiative bolsters token scarcity and stability, ultimately enhancing their value proposition for our community of holders.
 
-### _DCB Token Disclosure_
+While the benefits of the token burn are manifold, it's important to note a key operational detail: after every successful Initial DEX Offering (IDO) hosted on our platform, we trigger the activation of the token burn mechanism. This ensures a continuous cycle of supply reduction, reinforcing the scarcity-driven dynamics that underpin the value of DCB tokens. As a result, token holders enjoy heightened confidence in their investments, while Decubate demonstrates its unwavering dedication to sustainable token management practices.
+
+## _DCB Token Disclosure_
 _This disclosure is designed to inform potential investors, stakeholders, and users about the risks, conditions, and legal considerations associated with the use and holding of the Decubate (DCB) token._
 
 **Utility and Benefits**: 
