@@ -6,12 +6,12 @@ order: 99
 ---
 
 
-# **Tier System & Allocation**
+# Tier System & Allocation
 
 The Decubate Tier System is a clear system that determines the access and perks users receive based on their platform activity, specifically the $DCB tokens they stake. It aims to **motivate and compensate users for engaging with the ecosystem**, ultimately making investing more accessible and promoting greater user participation.
 --![](../static/Tier-List.png)
 
-## **Tier Rewards: Your Benefits Unlocked**
+## Tier Rewards: Your Benefits Unlocked
 The Tier System is crucial because it customizes investment experiences, aligning rewards for active users and newcomers. This fosters long-term commitment and stable growth for the platform and its users. Here the benefit you can have based on yout tier:
 
 - **100% Refund Eligibility**: from the Base Tier, users during the Grace Period can obtain a full refund, providing a safety net for new investments.
@@ -47,7 +47,7 @@ The allocation for each Tier level in some of our previous IDO is presented in t
 |||
 |||
 
-## **The Diamond Club**
+## The Diamond Club
 --![](../static\diamond-club.webp)
 :gem: Diamond Tier Members have access to exclusive deals like:
 

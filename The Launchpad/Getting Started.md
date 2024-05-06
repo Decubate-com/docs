@@ -5,17 +5,17 @@ layout: default
 order: 100
 description: A step-by-step guide to setting up your Decubate account and getting started with the Launchpad.
 ---
-# **The Launchpad**
+# The Launchpad
 An IDO Launchpad is a crucial part of our ecosystem that helps new projects get the attention and resources needed to operate. It acts as a **bridge between creators and investors**, making it easier to turn great ideas into successful ventures. 
 
 Our Launchpad is designed to work with all the **Ethereum Virtual Machine (EVM)-compatible blockchains** like Binance Smart Chain, Ethereum, Polygon, Arbitrum, Base, Avalanche, CORE, Linea, and many more, you ask, we have. This broad support allows projects to launch on the blockchain of their choice, increasing their reach and engagement with a larger audience.
 
 Invest with confidence. Visit our [Platform](https://platform.decubate.com) and find the next gem!
 
-## **Getting Started**
+## Getting Started
 To start using our IDO Launchpad and access new blockchain projects, you first need to create an account. This process is easy and safe, so you can begin exploring all our investment options. 
 
-### **Create an Account and Verify Address**
+### Create an Account and Verify Address
 Follow this video guide to set up your account:
 [!embed height="400"](https://www.youtube.com/watch?v=W48iznebhJU)
 
@@ -36,7 +36,7 @@ Follow this video guide to set up your account:
 ### Supported Wallets
 We support all default wallets from [Web3-Onboard](https://onboard.blocknative.com/), including Metamask, Coinbase Wallet, Ledger, Trezor, Wallet Connect and many more. 
 
-### **Account KYC Verification**
+### Account KYC Verification
 Follow this video guide to set up your account:
 [!embed height="400"](https://www.youtube.com/watch?v=SaVwsylRwFA)
 
