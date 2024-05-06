@@ -43,6 +43,25 @@ We prioritize the security of your tokens and token holders' information with ad
 No matter which wallet you use, we are prepared to accommodate you. Decubate offers complete support for Web3-Onboard defaults to make starting hassle-free. It's secure, fast, and just a click away.
 ![](../static/Wallet-support.jpg)
 
+|||
+|||
+
+## Some of our Partners officially using our Vesting Solution
+
+- [StoryFire](https://storyfire.com/)
+- [Exverse](https://exv.io/)
+- [YOUR](https://your.io/token)
+- [eeSee](https://eesee.io/)
+- [DexCheck](https://dexcheck.ai/)
+- [AI Tech Solidus](https://aitech.io/)
+- [ChainGPT](https://www.chaingpt.org/)
+- [Coinzix](https://coinzix.com/)
+- [Tradetomato](https://www.tradetomato.com/)
+- [Sidus Heroes](https://sidusheroes.com/)
+
+|||
+|||
+
 ## Get Started Today with a Demo
 Ready to streamline your token distribution process and enhance token holder engagement? Contact us today to learn more about the Decubate White Label Vesting Portal and schedule a demo. Take your token distribution efforts to the next level with Decubate. 
 [!ref target="blank" text="Contact Us"](https://share-eu1.hsforms.com/1MAJTri8sRxO5OmKL7DaktQf5bmh)

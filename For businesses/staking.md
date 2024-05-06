@@ -42,6 +42,25 @@ Here's a closer look at what you can expect:
 - **Mobile-Optimized Interface**: Ensure a smooth user experience for all stakeholders with a mobile-friendly staking portal.
 - **Real-time Analytics Dashboard**: Gain valuable insights into pool performance and make informed decisions with data visualization tools.
 
+|||
+|||
+
+## Some of our Partners officially using our Staking Solution
+
+- [StoryFire](https://storyfire.com/)
+- [Exverse](https://exv.io/)
+- [YOUR](https://your.io/token)
+- [eeSee](https://eesee.io/)
+- [DexCheck](https://dexcheck.ai/)
+- [AI Tech Solidus](https://aitech.io/)
+- [ChainGPT](https://www.chaingpt.org/)
+- [Coinzix](https://coinzix.com/)
+- [Tradetomato](https://www.tradetomato.com/)
+- [Sidus Heroes](https://sidusheroes.com/)
+- [Chappyz](https://chappyz.com/)
+
+|||
+|||
 
 ## Get Started Today with a Demo
 Empower your tokenomics and unlock the full potential of your project with Decubate's white-label staking platform. Contact us today to learn more about how Decubate can help you achieve your goals. 
