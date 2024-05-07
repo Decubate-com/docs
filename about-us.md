@@ -6,19 +6,18 @@ order: 75
 ---
 # About Decubate
 
-Decubate is a revolutionary platform that empowers web3 entrepreneurs and investors with a comprehensive suite of services and solutions. Our all-in-one tokenization DAO is designed to revolutionize the decentralized economy by providing entrepreneurs with the tools and resources they need to launch, manage, and grow their web3 businesses successfully.
+We focus on the infrastructure and seek projects offering essential utilities and services to support a successful decentralized time ahead once implemented. The launchpad is just a single facet of our multifaceted ecosystem. We're an ecosystem, meticulously selecting projects and partners that become the cornerstones of Web3 – together providing the picks and shovels that empower the next generation of builders.
 
 ## Founding Team
 
-Decubate was founded by a team of experienced professionals with a deep understanding of the web3 economy. Our team includes experts in blockchain technology, finance, marketing, and entrepreneurship, working together to create a platform that delivers value to all its stakeholders.
+Decubate was founded by a team of experienced professionals with a deep understanding of the web3 economy. Our team includes experts in blockchain technology, finance, marketing, and entrepreneurship, working together to create a platform that delivers value and innovation.
+--![](../static\team.png)
 
 ## Company Overview
 
-Decubate is a Dutch-based company that operates as a decentralized autonomous organization (DAO). Our platform is built on the Ethereum network, using smart contracts to ensure transparency, security, and reliability.
+Decubate is a Dutch-based company that operates as a decentralized autonomous organization (DAO). Our platform is built on the BSC Network, using smart contracts to ensure transparency, security, and reliability.
 
-## Legal Structure and Compliance
-
-Decubate operates within the legal framework of the Netherlands and adheres to relevant regulations and compliance standards. We prioritize ethical compliance and maintain a strong moral compass, ensuring a secure and trustworthy environment for investors and entrepreneurs.
+Decubate operates within the legal framework of the Netherlands and adheres to relevant regulations and compliance standards. We prioritize ethical compliance and maintain a strong moral compass, ensuring a secure and trustworthy environment for investors and entrepreneurs. Check out [Terms & Conditions](https://app-eu1.hubspot.com/documents/25442585/view/529385989?accessId=5636d1)
 
 ## Disclaimer and Risk Statement
 

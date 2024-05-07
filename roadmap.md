@@ -2,7 +2,7 @@
 label: Roadmap
 layout: default
 icon: ":construction:"
-order: 96
+order: 71
 ---
 # Roadmap
 _The two main aspects of our roadmap consist out of our software solutions and bringing value to DCB and our community._

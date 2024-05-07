@@ -1,37 +1,36 @@
 ---
-label: Security
+label: Security & Privacy
 layout: default
 icon: ":closed_lock_with_key:"
-order: 80
+order: 75
 ---
-# Security
-_In today's fast-paced digital world, security is a critical aspect in the decentralized economy. At Decubate, we understand the importance of ensuring the security of our platform, services and token DCB. This is why we have taken extensive measures to ensure the highest level of security for our users._
+# Security and Privacy
 
-## Security Measures for Token DCB:
+At Decubate, security and privacy are paramount in our commitment to providing a trusted and secure environment for our users. Our entire infrastructure, from smart contracts to staking mechanisms and IDO processes, has undergone rigorous audits by industry leaders such as Hacken, CertiK, Kalos Security, HYDNSecurity, and our internal team.
 
-- Smart Contract Auditing: Decubate's token DCB is built on the Binance Smart Chain blockchain and is secured through smart contract auditing. Our token DCB smart contract has been thoroughly audited by Haechi and Hacken, two industry-leading smart contract auditing firms.
+## Security Measures
 
-- Encryption: Token DCB is encrypted with advanced encryption algorithms, providing additional security to our users' tokens.
+_For Token DCB_
+- Smart Contract Auditing: Our token DCB, built on the Binance Smart Chain blockchain, undergoes smart contract auditing to ensure its security and reliability.
+- Encryption: Token DCB is fortified with advanced encryption algorithms, offering enhanced security for our users' assets.
+- Secure Wallets: Decubate utilizes a multi-signature wallet system to securely store DCB reserves, mitigating the risk of theft or loss.
 
-- Secure Wallets: Decubate uses a multi signature wallet system that ensures that DCB reserves are stored in a safe and secure manner, reducing the risk of theft or loss.
+_For Platform_
+- Two-Factor Authentication: Our platform implements two-factor authentication adding an extra layer of security to user accounts.
+- Secure Server Infrastructure: Decubate operates on a secure server infrastructure monitored and maintained by our security experts.
+- Regular Security Updates: We conduct regular updates and upgrades to our platform's security systems to address emerging threats and vulnerabilities.
 
-## Security Measures for Platform:
+_For Services_
+- Regular Security Audits: Decubate's services undergo routine security audits to detect and address potential security risks effectively.
+- User Permissions: Our services are designed with user permissions in mind, ensuring that only authorized users can access sensitive information.
+- Encryption: All sensitive data and information are encrypted to prevent unauthorized access, ensuring the highest level of security for our users.
 
-- Two-Factor Authentication: Decubate's platform requires users to enter a two-factor authentication code for each transaction, providing an extra layer of security to their accounts.
+## Privacy Measures
 
-- Secure Server Infrastructure: Decubate's platform operates on a secure server infrastructure, which is monitored and maintained by our team of security experts.
-
-- Regular Security Updates: Decubate's security team regularly updates and upgrades the platform's security systems to keep up with the latest threats and vulnerabilities.
-
-## Security Measures for Services:
-
-- Regular Security Audits: Decubate's services undergo regular security audits to identify and resolve any potential security threats.
-
-- User Permissions: Decubate's services are built with user permissions in mind, ensuring that only authorized users can access sensitive information.
-
-- Encryption: All sensitive data and information are encrypted to prevent unauthorized access and to ensure the highest level of security for our users.
-
-_At Decubate, we understand the importance of security in the decentralized economy. This is why we have taken extensive measures to ensure the security of our platform, services, and token DCB. From regular security audits to advanced encryption algorithms, Decubate is committed to providing its users with the most secure and trusted solutions._
+Decubate prioritizes user privacy with robust privacy measures implemented throughout our platform:
+Zero-Tracking: We shield user data and metadata before relaying requests to RPC providers, achieving true zero-tracking through technical methods such as Metamask masking, random patching, and burn after delivery.
+![](../static/rpc-diagram.png)
+At Decubate, we are dedicated to maintaining the highest standards of security and privacy to safeguard our users' assets and information, enabling them to transact and engage with confidence in our platform.
 
 [!ref target="blank" text="Explore the audit reports"](https://github.com/Decubate-com/public-repository)
 
