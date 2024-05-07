@@ -6,7 +6,7 @@ order: 75
 ---
 # About Decubate
 
-We focus on the infrastructure and seek projects offering essential utilities and services to support a successful decentralized time ahead once implemented. The launchpad is just a single facet of our multifaceted ecosystem. We're an ecosystem, meticulously selecting projects and partners that become the cornerstones of Web3 – together providing the picks and shovels that empower the next generation of builders.
+Web3 is in a state of constant change. Since its inception, Decubate has been navigating this rapidly changing environment by approving projects that align with the fundamental ideals of blockchain technology and web3. We are still steadfast in recognizing and supporting initiatives that have a hand in shaping the future of the decentralized web and our ecosystem. We breed trust through legitimacy and brilliance, creating a dynamic, innovative, and successful environment.
 
 ## Founding Team
 
