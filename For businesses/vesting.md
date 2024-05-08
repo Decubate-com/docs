@@ -4,9 +4,8 @@ layout: default
 icon: ":calendar:"
 order: 100
 ---
-![](../static/Vesting.jpg)
 # Decubate White Label Vesting Portal
-
+![](../static/Vesting-DCB.png)
 Welcome to the Decubate [White Label Vesting Portal](https://www.decubate.com/token-vesting-portal), your solution for automating, managing, and customizing token distribution. Our platform empowers businesses to streamline their token distribution processes with ease, ensuring a seamless experience for both token issuers and recipients.
 
 ### Automate Token Distribution Effortlessly
@@ -29,19 +28,31 @@ Explore below to learn more about how our platform can revolutionize your token 
 - **Token Holder Communication Tools**: Engage with your token holders and keep them informed throughout the vesting period with customizable communication tools.
 - **Customizable Branding**: Incorporate your company's branding into the platform for a seamless and cohesive experience for your token holders.
 
+|||
+|||
+
 ### **Support for Multiple Blockchains**
 Enjoy flexibility and choice with our platform's support for multiple EVM-compatible blockchain platforms.
-![](../static/EVM-compatibility.png)
+![](../static/EVM-Decubate.png)
+
+|||
+|||
+
 
 ### **Advanced Security Measures**
-We prioritize the security of your tokens and token holders' information with advanced security measures and regular audits.
-
 **Battle-tested from 50.000+ users.**
-![](../static/Security.png)
+
+We prioritize the security of your tokens and token holders' information with advanced security measures and regular audits.
+![](../static/Security2.png)
+
+
+|||
+|||
+
 
 ### **Wallet Support**
 No matter which wallet you use, we are prepared to accommodate you. Decubate offers complete support for Web3-Onboard defaults to make starting hassle-free. It's secure, fast, and just a click away.
-![](../static/Wallet-support.jpg)
+![](../static/Wallet-Decubate.png)
 
 |||
 |||
