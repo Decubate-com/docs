@@ -6,7 +6,7 @@ order: 99
 ---
 
 # White Label Staking Platform
-![](../static/Vesting-Decubate.png)
+![](../static/ATSnew.png)
 Eliminate the need to invest valuable time and resources into crafting your own staking solution. Decubate provides everything you need to get started quickly and efficiently.
 
 Imagine a world where your token holders are actively engaged, rewarded for their loyalty, and incentivized to hold for the long term. Decubate's [White Label Staking Platform](https://www.decubate.com/token-staking-platform) empowers you to achieve precisely that by providing a suite of tools designed to **easily design, deploy, and manage staking** pools that seamlessly integrate with your project's unique tokenomics.
