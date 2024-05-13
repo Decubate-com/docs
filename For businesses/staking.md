@@ -55,7 +55,6 @@ Here's a closer look at what you can expect:
 - [DexCheck](https://dexcheck.ai/)
 - [AI Tech Solidus](https://aitech.io/)
 - [ChainGPT](https://www.chaingpt.org/)
-- [Coinzix](https://coinzix.com/)
 - [Tradetomato](https://www.tradetomato.com/)
 - [Sidus Heroes](https://sidusheroes.com/)
 - [Chappyz](https://chappyz.com/)

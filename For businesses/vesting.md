@@ -66,7 +66,6 @@ No matter which wallet you use, we are prepared to accommodate you. Decubate off
 - [DexCheck](https://dexcheck.ai/)
 - [AI Tech Solidus](https://aitech.io/)
 - [ChainGPT](https://www.chaingpt.org/)
-- [Coinzix](https://coinzix.com/)
 - [Tradetomato](https://www.tradetomato.com/)
 - [Sidus Heroes](https://sidusheroes.com/)
 
