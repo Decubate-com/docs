@@ -57,17 +57,9 @@ No matter which wallet you use, we are prepared to accommodate you. Decubate off
 |||
 |||
 
-## Some of our Partners officially using our Vesting Solution
+## Some of our Partners using our Vesting Solution
 
-- [StoryFire](https://storyfire.com/)
-- [Exverse](https://exv.io/)
-- [YOUR](https://your.io/token)
-- [eeSee](https://eesee.io/)
-- [DexCheck](https://dexcheck.ai/)
-- [AI Tech Solidus](https://aitech.io/)
-- [ChainGPT](https://www.chaingpt.org/)
-- [Tradetomato](https://www.tradetomato.com/)
-- [Sidus Heroes](https://sidusheroes.com/)
+![](../static/Vesting-Partner.png)
 
 |||
 |||

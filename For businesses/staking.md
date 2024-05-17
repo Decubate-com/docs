@@ -46,18 +46,9 @@ Here's a closer look at what you can expect:
 |||
 |||
 
-## Some of our Partners officially using our Staking Solution
+## Some of our Partners using our Staking Solution
 
-- [StoryFire](https://storyfire.com/)
-- [Exverse](https://exv.io/)
-- [YOUR](https://your.io/token)
-- [eeSee](https://eesee.io/)
-- [DexCheck](https://dexcheck.ai/)
-- [AI Tech Solidus](https://aitech.io/)
-- [ChainGPT](https://www.chaingpt.org/)
-- [Tradetomato](https://www.tradetomato.com/)
-- [Sidus Heroes](https://sidusheroes.com/)
-- [Chappyz](https://chappyz.com/)
+![](../static/Staking-Partner.png)
 
 |||
 |||
