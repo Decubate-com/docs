@@ -7,7 +7,7 @@ order: 100
 # Social
 Keep updated with the latest news from Decubate and connect with us on your preferred social media channels. Join our community to interact with our team, stay updated on future projects, and become part of our expanding ecosystem.
 
-[Website](https://www.decubate.com/) | [Launchpad](https://platform.decubate.com/) | [X](https://twitter.com/decubate) | [Discord](https://discord.gg/Decubate) | [Telegram](https://t.me/decubate) | [Announcements](https://t.me/Decubateann) | [Linkedin](https://www.linkedin.com/company/decubate)
+[Website](https://www.decubate.com/) | [Launchpad](https://platform.decubate.com/) | [X](https://twitter.com/decubate) | [Discord](https://discord.gg/X3wmNcwW) | [Telegram](https://t.me/decubate) | [Announcements](https://t.me/Decubateann) | [Linkedin](https://www.linkedin.com/company/decubate)
 
 |||
 |||
