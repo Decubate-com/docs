@@ -48,7 +48,7 @@ Emma’s journey continues as she explores the benefits of Decubate's staking pr
 - **Transaction Fee Earnings**;
 - **Automatic Compounding**: Her returns are maximized through automatic compounding of all staking rewards;
 - **Enhanced Security**: With the transition to new staking pools;
-- **Boosted rewards** by holding [Genesis NFTs](https://docs.decubate.com/the-launchpad/genesis-nft/)!
+- **Boosted rewards** by holding [Genesis NFTs](https://docs.decubate.com/the-launchpad/staking/#how-genesis-nft-works)!
 
 [!ref target="blank" text="Ready to provide Liquidity?"](https://platform.decubate.com/staking)
 
