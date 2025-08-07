@@ -18,7 +18,6 @@ This is just another features that makes us Unique! At Decubate, we believe in p
 Decubate's decentralized refund policy results from careful consideration and collaboration within our community. The policy was voted on by the Decubate DAO, with an overwhelming 92% majority from Decubate investors, highlighting the strong support for this innovative feature.
 
 ## Refund Eligibility
-
 **All users, regardless of their tier** (from Base to Diamond), are eligible to receive up to **100% refunds** during the Grace Period (1 to 14 days) The policy introduces a predetermined Grace Period that starts at the token listing and continues until the end of the grace period. During this time, users can either claim tokens and receive them in their wallet instantaneously or request a refund, receiving the USDT tokens they invested back instantly.
 **If tokens are claimed, you lose refund eligibility** so again, once you click the claim botton during the Grace Period, you forfeit your eligibility for a refund.
 
