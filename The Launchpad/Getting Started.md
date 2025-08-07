@@ -16,12 +16,11 @@ Invest with confidence. Visit our [Platform](https://platform.decubate.com) and 
 
 !!!
 Disclaimer
-
 The information contained in this whitepaper is provided for informational purposes only and does not constitute investment advice, financial advice, or any other form of recommendation.
 
 Cryptocurrency investments and related activities involve significant risks, including market volatility, regulatory uncertainties, and potential loss of capital.
 
-_We strongly encourage you to do your own research and carefully evaluate the risks, benefits, and objectives of any cryptocurrency-related activities before participating._
+We strongly encourage you to do your own research and carefully evaluate the risks, benefits, and objectives of any cryptocurrency-related activities before participating.
 !!!
 
 ## Getting Started

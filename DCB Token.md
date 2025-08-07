@@ -16,7 +16,8 @@ The information contained in this whitepaper is provided for informational purpo
 
 Cryptocurrency investments and related activities involve significant risks, including market volatility, regulatory uncertainties, and potential loss of capital.
 
-_We strongly encourage you to do your own research and carefully evaluate the risks, benefits, and objectives of any cryptocurrency-related activities before participating._
+We strongly encourage you to do your own research and carefully evaluate the risks, benefits, and objectives of any cryptocurrency-related activities before participating.
+
 !!!
 
 ## Where to Buy DCB Token
@@ -90,7 +91,7 @@ While the benefits of the token burn are manifold, it's important to note a key 
 _This disclosure is designed to inform potential investors, stakeholders, and users about the risks, conditions, and legal considerations associated with the use and holding of the Decubate (DCB) token._
 
 **Utility and Benefits**:
-_The utility and benefits associated with DCB tokens, such as staking benefits, community governance participation, access to projects, enhanced voting power, and Learn to Earn events, are not guaranteed and may vary depending on various factors, including but not limited to, market conditions, the success of Decubate, and changes in the Decubate platform or its offerings._
+_The utility and benefits associated with DCB tokens, such as staking benefits, community governance participation, access to projects, enhanced voting power, and Airdrop events, are not guaranteed and may vary depending on various factors, including but not limited to, market conditions, the success of Decubate, and changes in the Decubate platform or its offerings._
 
 **Purchase and Use of DCB Tokens**:
 _Users can purchase DCB tokens through specified exchanges. It is important to note that the purchase, possession, and use of DCB tokens involve significant risks, including the risk of loss of capital. The price of DCB tokens can be highly volatile, and investors could lose their entire investment._
@@ -102,7 +103,14 @@ _Based on our legal opinion, Issuing and Offering the DCB Token does not fall wi
 _The DCB token and its functions are subject to various risk factors, including but not limited to, technological risks, market volatility, regulatory changes, cybersecurity threats, and changes in the functionality of the Decubate platform. Potential investors and users should consider these risk factors and their own personal circumstances before deciding to purchase or use DCB tokens._
 
 **Disclaimer**:
-_Investors should only invest in DCB tokens with funds that they can afford to lose. Before making a decision to purchase DCB tokens, potential investors should undertake their own due diligence and consider consulting with a professional financial advisor._
+_Investors should only invest in DCB tokens with funds that they can afford to lose. Before making a decision to purchase DCB tokens, potential investors should undertake their own due diligence and consider consulting with a professional financial advisor. In addition, Investor should be aware of the following:_
+
+-   The DCB token may lose its value in part or in full;
+-   The DCB token may not always be transferable;
+-   The DCB token may not be liquid;
+-   The DCB token may not be exchangeable against the good or service promised in the crypto-asset white paper, especially in the case of a failure or discontinuation of the crypto-asset project;
+-   The DCB token is not covered by the investor compensation schemes under Directive 97/9/EC of the European Parliament and of the Council;
+-   The DCB token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.\
 
 **Changes to Disclosure**:
 _Decubate reserves the right to modify this disclosure document at any time to reflect changes in the law, the DCB token, the Decubate platform, or any other relevant circumstances. It is the responsibility of the DCB token holders and potential investors to regularly check for any updates to this disclosure._

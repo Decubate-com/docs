@@ -1,0 +1,264 @@
+{
+  "version": "3.6.0",
+  "created": "2025-08-07T08:50:01Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "about-us/index.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "dcb-token/index.html"
+    },
+    {
+      "path": "faq/index.html"
+    },
+    {
+      "path": "for-businesses/staking/index.html"
+    },
+    {
+      "path": "for-businesses/the-ecosystem/index.html"
+    },
+    {
+      "path": "for-businesses/vesting/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "mediakit/index.html"
+    },
+    {
+      "path": "micar-and-risk/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.license.txt"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.license.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.license.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.license.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.license.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "roadmap/index.html"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "security/index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "social/index.html"
+    },
+    {
+      "path": "static/allocation.png"
+    },
+    {
+      "path": "static/ats.png"
+    },
+    {
+      "path": "static/atsnew.png"
+    },
+    {
+      "path": "static/atv.png"
+    },
+    {
+      "path": "static/atvnew.png"
+    },
+    {
+      "path": "static/burn.png"
+    },
+    {
+      "path": "static/dcb-tokenomics.png"
+    },
+    {
+      "path": "static/decubate-ecosystem.png"
+    },
+    {
+      "path": "static/decubate-logo-black.png"
+    },
+    {
+      "path": "static/decubate-staking-system.png"
+    },
+    {
+      "path": "static/diamond-club.webp"
+    },
+    {
+      "path": "static/early-investor-emissions.png"
+    },
+    {
+      "path": "static/emissions.png"
+    },
+    {
+      "path": "static/evm-compatibility.png"
+    },
+    {
+      "path": "static/evm-decubate.png"
+    },
+    {
+      "path": "static/gnft.jpeg"
+    },
+    {
+      "path": "static/investor-club.png"
+    },
+    {
+      "path": "static/l2e.png"
+    },
+    {
+      "path": "static/membership-levels.png"
+    },
+    {
+      "path": "static/micar.png"
+    },
+    {
+      "path": "static/mint.png"
+    },
+    {
+      "path": "static/monthly-emissions.png"
+    },
+    {
+      "path": "static/partners.png"
+    },
+    {
+      "path": "static/referral-system.png"
+    },
+    {
+      "path": "static/refund-policy.png"
+    },
+    {
+      "path": "static/refund.jpeg"
+    },
+    {
+      "path": "static/rpc-diagram.png"
+    },
+    {
+      "path": "static/security.png"
+    },
+    {
+      "path": "static/security2.png"
+    },
+    {
+      "path": "static/staking-partner.png"
+    },
+    {
+      "path": "static/supported-wallets.png"
+    },
+    {
+      "path": "static/team.png"
+    },
+    {
+      "path": "static/tier_system_image.png"
+    },
+    {
+      "path": "static/tier-list.png"
+    },
+    {
+      "path": "static/token-distributions.png"
+    },
+    {
+      "path": "static/tokenomics.png"
+    },
+    {
+      "path": "static/usecase.png"
+    },
+    {
+      "path": "static/vesting-dcb.png"
+    },
+    {
+      "path": "static/vesting-dcb2.png"
+    },
+    {
+      "path": "static/vesting-decubate.png"
+    },
+    {
+      "path": "static/vesting-partner.png"
+    },
+    {
+      "path": "static/vesting.jpg"
+    },
+    {
+      "path": "static/wallet-decubate.png"
+    },
+    {
+      "path": "the-launchpad/crowdfunding-ido-events/index.html"
+    },
+    {
+      "path": "the-launchpad/getting-started/index.html"
+    },
+    {
+      "path": "the-launchpad/learn-to-earn-l2e-events/index.html"
+    },
+    {
+      "path": "the-launchpad/referral-program/index.html"
+    },
+    {
+      "path": "the-launchpad/refund-policy/index.html"
+    },
+    {
+      "path": "the-launchpad/staking/index.html"
+    },
+    {
+      "path": "the-launchpad/tier-system/index.html"
+    }
+  ]
+}

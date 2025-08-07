@@ -9,6 +9,16 @@ order: 100
 
 Keep updated with the latest news from Decubate and connect with us on your preferred social media channels. Join our community to interact with our team, stay updated on future projects, and become part of our expanding ecosystem.
 
+Decubate promotes the DCB token via:
+
+1. Community growth and referral programs
+2. Online content marketing
+3. Physical events
+4. Strategic partnerships
+5. Listings on decentralized exchanges
+
+All marketing communications will be fair, clear, and not misleading.
+
 [Website](https://www.decubate.com/) | [Launchpad](https://platform.decubate.com/) | [X](https://twitter.com/decubate) | [Discord](https://discord.gg/X3wmNcwW) | [Telegram](https://t.me/decubate) | [Announcements](https://t.me/Decubateann) | [Linkedin](https://www.linkedin.com/company/decubate)
 
 |||
