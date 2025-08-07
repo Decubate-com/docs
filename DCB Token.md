@@ -39,7 +39,7 @@ We strongly encourage you to do your own research and carefully evaluate the ris
 
 The DCB token stands as the cornerstone of the Decubate ecosystem, facilitating a diverse range of functionalities and opportunities for its holders
 
-1. **Tier Upgrades for Exclusive Access**: As users accumulate DCB tokens, they ascend through membership tiers, unlocking access to coveted privileges such as guaranteed allocations in IDO events and heightened participation in Learn to Earn initiatives.
+1. **Tier Upgrades for Exclusive Access**: As users accumulate DCB tokens, they ascend through membership tiers, unlocking access to coveted privileges such as guaranteed allocations in IDO events and heightened participation in Airdrop initiatives.
 
 2. **Community Governance and Voting**: The possession of DCB tokens empowers holders to engage in community governance, granting them voting rights in crucial decision-making processes that steer the platform's future trajectory. Visit [Here](https://snapshot.org/#/decubategov.eth) to see all the recend DAO Proposal approved/refused
 

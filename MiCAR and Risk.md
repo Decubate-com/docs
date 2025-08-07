@@ -30,32 +30,6 @@ By aligning with MiCAR, Decubate reinforces its position as a safe, compliant, a
 📩 Need help? Contact [support@decubate.com] for assistance.
 Thank you for being part of the Decubate journey! Together, we’re building a secure and compliant future for crypto investments.
 
-## What This Means for Decubate Users and Clients
-
-To ensure full compliance with MiCAR, Decubate is implementing the following measures:
-
-✅ **No Action Required for Existing KYC-Verified Users**If you have completed your Know Your Customer (KYC) verification, you **can continue using all Decubate services** without interruption. Your access to Launchpad events and staking remains unchanged.
-
-⚠️ **KYC Deadline for New EU Users – February 12, 2025**To comply with MiCAR, new EU users must complete KYC verification before **February 12, 2025, at 18:00 CET** to continue accessing Launchpad services. If you haven't finished your KYC, please complete the process before the deadline to ensure uninterrupted access.
-
-🚧 **Temporary Halt on Launchpad Services for EU-based Projects** - To comply with MiCAR during the transitional period, during which we operate without an approved license, EU-based projects cannot make use of Launchpad services until the license is officially approved.
-
-🔒 **Staking Services Remain Fully Operational**Unlike some services requiring a license, **Decubate’s staking program is unaffected by MiCAR and will continue operating for all users worldwide.** Users can manage their staked DCB tokens without restriction, ensuring continued access to staking rewards.
-
-## Why MiCAR Compliance Matters
-
-MiCAR represents a significant step forward for the crypto industry, offering **greater security, transparency, and investor protection**. Many platforms may struggle to meet these requirements, but **Decubate is ahead of the curve**, ensuring compliance while maintaining the same trusted experience for our users.
-
-By aligning with MiCAR, Decubate reinforces its position as a **safe, compliant, and forward-thinking** launchpad that prioritizes long-term security for entrepreneurs and investors.
-
-## Stay Updated on Our Licensing Progress
-
-As we finalize our MiCAR license, we will update our community on key milestones. Stay connected by following our official channels for the latest news and regulatory updates.
-
-📩 **Need help?** Contact [support@decubate.com] for assistance.
-
-Thank you for being part of the Decubate journey! Together, we’re building a **secure and compliant future for crypto investments.**
-
 # **Risk Statement**
 
 The information contained in this whitepaper is provided for informational purposes only and does not constitute investment advice, financial advice, or any other form of recommendation.
