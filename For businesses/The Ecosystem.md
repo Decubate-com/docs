@@ -23,7 +23,8 @@ The information contained in this whitepaper is provided for informational purpo
 
 Cryptocurrency investments and related activities involve significant risks, including market volatility, regulatory uncertainties, and potential loss of capital.
 
-_We strongly encourage you to do your own research and carefully evaluate the risks, benefits, and objectives of any cryptocurrency-related activities before participating._
+We strongly encourage you to do your own research and carefully evaluate the risks, benefits, and objectives of any cryptocurrency-related activities before participating.
+
 !!!
 
 [!ref target="blank" text="Apply Today"](https://share-eu1.hsforms.com/1H2ohLD8tSv-EQjMQEu7lhAf5bmh)
