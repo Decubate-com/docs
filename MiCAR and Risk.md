@@ -135,7 +135,7 @@ Decubate is committed to disclosing material conflicts of interest where applica
 
 Investors are encouraged to conduct their own due diligence and seek independent legal, financial, and tax advice before participating in any token offering.
 
-If you’d like to read more about the conflict of interest disclosure document, please visit our conflict of interest disclosure [!ref target="blank" text="View Interest disclosure document"](https://25442585.fs1.hubspotusercontent-eu1.net/hubfs/25442585/Legal%20Docs/Disclosure%20of%20Conflict%20of%20Interest.pdf).
+If you’d like to read more about the conflict of interest disclosure document, please visit our conflict of interest disclosure. [!ref target="blank" text="View Interest disclosure document"](https://25442585.fs1.hubspotusercontent-eu1.net/hubfs/25442585/Legal%20Docs/Disclosure%20of%20Conflict%20of%20Interest.pdf)
 
 # Governing Law and Jurisdiction
 
